@@ -1,0 +1,6 @@
+services:
+  scala-build:
+    volumes:
+      - ./:/root/
+    entrypoint:
+      [ "sbt" ]

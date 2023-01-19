@@ -50,3 +50,4 @@ bin/
 
 # Docker-generated stuff
 .bash_history
+.dotty_history
